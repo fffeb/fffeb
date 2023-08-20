@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fffeb
+- 👋 Hi, I’m Febriana
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning sql, excel, tablue, google sheet
 - 💞️ I’m looking to collaborate on data
